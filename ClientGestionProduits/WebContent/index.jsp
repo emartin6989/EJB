@@ -8,9 +8,9 @@
 <title>Accueil</title>
 </head>
 <body>
- <a href="${pageContext.request.contextPath}/ajouter.jsp">pour ajouter un produit</a> <br/>
-  <a href="${pageContext.request.contextPath}/modifier.jsp">pour modifier un produit</a> <br/>
-   <a href="${pageContext.request.contextPath}/lister.jsp">pour lister un produit</a> <br/>
-    <a href="${pageContext.request.contextPath}/supprimer.jsp">pour supprimer un produit</a> <br/>
+ <a href="${pageContext.request.contextPath}/ajouter.jsp">pour ajouter un produit</a> <br/><br/>
+  <a href="${pageContext.request.contextPath}/modifier.jsp">pour modifier un produit</a> <br/><br/>
+   <a href="${pageContext.request.contextPath}/lister.jsp">pour lister un produit</a> <br/><br/>
+    <a href="${pageContext.request.contextPath}/supprimer.jsp">pour supprimer un produit</a> <br/><br/>
 </body>
 </html>
